@@ -1,0 +1,9 @@
+id,name,name_plural,description
+1,kg,kg,Килограмм
+2,L,L,Литр
+3,piece,pieces,Штука
+4,g,g,Грамм
+5,ml,ml,Миллилитр
+6,package,packages,Упаковка
+7,can,cans,Банка
+8,bottle,bottles,Бутылка
