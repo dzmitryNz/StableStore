@@ -89,3 +89,13 @@ StableStore/
 ## Лицензия
 
 Проект распространяется свободно для личного использования.
+
+
+## Improvement proposals
+
+- [ ] Make this README and `CONTENTS.md` match the files that exist; add a markdown link check.
+- [ ] Add the `medicine/` and `energy/` categories (see `.ai/agent-tasks.md`).
+- [ ] Add a calculator script (household size, days, climate to quantities).
+- [ ] Add the planned Python Grocy sync script with a CSV format validator.
+- [ ] Add expiry/rotation tracking: item frontmatter plus an "expiring soon" report.
+- [ ] Add `budget-planning.md` and spreadsheet templates.
