@@ -142,6 +142,14 @@
 
 **Итого в разделе:** 6 файлов (1 .md + 5 .csv)
 
+### spareparts (integration/spareparts/)
+
+| Файл | Описание | Статус |
+|------|----------|--------|
+| [[integration/spareparts/README\|README.md]] | Учёт запасов в собственном сервисе spareparts: сроки годности, расход по ближайшему сроку | ✅ Готово |
+| `seed.mjs` | Скрипт: файлы данных для новой копии spareparts из CSV Grocy, `min_qty` под семью и срок | ✅ Готово |
+| `seed.test.mjs` | Тесты скрипта и проверка целостности CSV Grocy | ✅ Готово |
+
 ---
 
 ## 📊 Статистика проекта
@@ -252,6 +260,7 @@
 
 ### Интеграция с приложениями
 - [[integration/grocy/README|Интеграция с Grocy]]
+- [[integration/spareparts/README|Интеграция со spareparts]]
 - CSV файлы для импорта
 
 ---
